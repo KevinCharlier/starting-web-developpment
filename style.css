@@ -1,0 +1,23 @@
+.odyssey {
+    display: flex;
+}
+
+.hulot {
+    display: flex;
+}
+
+.alien {
+    display: flex;
+}
+
+.info-odyssey {
+    padding-top: 100px;
+}
+
+.info-hulot {
+    padding-top: 100px;
+}
+
+.info-alien {
+    padding-top: 100px;
+}
